@@ -68,6 +68,7 @@ To see how you can add code snippets, see below:
         padding: 2.5rem;
         width: 22rem;
     }
+```
 
 ## Author
 

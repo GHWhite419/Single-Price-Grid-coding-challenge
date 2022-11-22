@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile: https://raw.githubusercontent.com/JudasThePriest/Single-Price-Grid-coding-challenge/main/screenshots/Mobile%20viewport.png
-Tablet: https://raw.githubusercontent.com/JudasThePriest/Single-Price-Grid-coding-challenge/main/screenshots/Tablet%20viewport.png
-Desktop: https://raw.githubusercontent.com/JudasThePriest/Single-Price-Grid-coding-challenge/main/screenshots/Desktop%20viewport.png
+- Mobile: https://raw.githubusercontent.com/JudasThePriest/Single-Price-Grid-coding-challenge/main/screenshots/Mobile%20viewport.png
+- Tablet: https://raw.githubusercontent.com/JudasThePriest/Single-Price-Grid-coding-challenge/main/screenshots/Tablet%20viewport.png
+- Desktop: https://raw.githubusercontent.com/JudasThePriest/Single-Price-Grid-coding-challenge/main/screenshots/Desktop%20viewport.png
 
 ### Links
 
